@@ -1,15 +1,6 @@
 {
-  "name": "api-mock-karate",
+  "name": "api-mock-adn-agenda",
   "version": "1.0.0",
-  "main": "index.js",
-  "type": "commonjs",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.19.2",
-    "swagger-jsdoc": "^6.2.8",
-    "swagger-ui-express": "^5.0.1"
-  }
+  "private": true,
+  "type": "module"
 }
